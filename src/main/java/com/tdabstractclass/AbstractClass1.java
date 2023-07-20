@@ -9,4 +9,5 @@ public abstract class AbstractClass1 {
   private ConcreteDependance1 dependance1;
   @Autowired
   private ConcreteDependance2 dependance2;
+  
 }
